@@ -3,7 +3,7 @@ body #book {
   font-family: "VL GOTHIC", sans-serif;
   line-height: 2.0em;
   font-size: 130%;
-  margin-left: 5em;
+  margin: 0 auto;
   color: #070707;
 }
 
