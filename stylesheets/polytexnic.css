@@ -1,7 +1,8 @@
 body #book {
-  width: 41em;
+  width: 30em;
   font-family: "VL GOTHIC", sans-serif;
   line-height: 2.0em;
+  font-size: 130%;
   margin-left: 5em;
   color: #070707;
 }
