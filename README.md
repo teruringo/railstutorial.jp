@@ -41,3 +41,5 @@ Creative Commons の「[表示 - 継承 3.0 非移植](http://creativecommons.or
 
 YassLab - ヤスラボ    
 http://yasslab.jp/ja/
+
+[閲覧](http://teruringo.github.io/railstutorial.jp/4.0/)
